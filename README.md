@@ -37,7 +37,7 @@ Payment Gateway: Integration with PayPal/Stripe for handling transactions
 
 How to Run Locally
 
-1. Clone the repository: git clone https://github.com/yourusername/cape-town-ecommerce.git
+1. Clone the repository: git clone https://github.com/yourusername/cake-town-ecommerce.git
 2. Navigate to the project directory: cd cake-town-ecommerce
 3. Install dependencies: npm install
 4. Start the server: npm start
